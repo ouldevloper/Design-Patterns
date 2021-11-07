@@ -1,8 +1,9 @@
 #include <iostream>
 
-int main(void){
+int main(void)
+{
 
-     std::cout << "THis is Dependancy Injection"<<std::endl;
+    std::cout << "THis is Dependancy Injection" << std::endl;
 
     return 0;
 }
